@@ -16,7 +16,7 @@ const projects = [
     tech: ['React', 'Spring Boot', 'PostgreSQL', 'JavaScript', 'REST API'],
     github: 'https://github.com/d3rr1ck27',
     live: null,
-    status: 'In Progress',
+    status: 'Completed',
   },
   {
     title: 'FinTrack ML',
