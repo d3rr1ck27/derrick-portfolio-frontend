@@ -52,7 +52,7 @@ function Contact() {
             <div className="contact-details">
               <div className="contact-item">
                 <span>📧</span>
-                <a href="mailto:derricklove2704@gmail.com">derricklove2704@gmail.com</a>
+                <a href="mailto:derricklovebus@gmail.com">derricklovebus@gmail.com</a>
               </div>
               <div className="contact-item">
                 <span>📍</span>
