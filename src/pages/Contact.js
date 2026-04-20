@@ -18,7 +18,7 @@ function Contact() {
     e.preventDefault();
     setStatus('sending');
     try {
-      const response = await fetch('http://localhost:8080/api/contact', {
+     const response = await fetch('https://derrick-portfolio-backend-production.up.railway.app/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData),
