@@ -40,7 +40,7 @@ function Home() {
             <p>Unit Tests Written</p>
           </div>
           <div className="stat">
-            <h3>2</h3>
+            <h3>6</h3>
             <p>Languages</p>
           </div>
         </div>
