@@ -23,8 +23,8 @@ const projects = [
     description: 'Machine learning dashboard predicting youth unemployment risk across South Africa using real QLFS government microdata. Features province-level risk analysis, demographic breakdowns, and a what-if simulator showing how education and location affect outcomes.',
     tech: ['Python', 'XGBoost', 'Streamlit', 'pandas', 'scikit-learn', 'Plotly'],
     github: 'https://github.com/d3rr1ck27/sa-youth-unemployment-model',
-    live: 'Soon to come',
-    status: 'Soon to come',
+    live: null,
+    status: 'Coming soon',
   },
 ];
 
