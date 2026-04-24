@@ -19,12 +19,12 @@ const projects = [
     status: 'Completed',
   },
   {
-    title: 'FinTrack ML',
-    description: 'An intelligent extension of FinTrack featuring machine learning models for spending predictions, anomaly detection, and smart budget recommendations.',
-    tech: ['Python', 'scikit-learn', 'FastAPI', 'pandas', 'NumPy'],
-    github: null,
-    live: null,
-    status: 'Coming Soon',
+    title: 'SA Youth NEET Risk Predictor',
+    description: 'Machine learning dashboard predicting youth unemployment risk across South Africa using real QLFS government microdata. Features province-level risk analysis, demographic breakdowns, and a what-if simulator showing how education and location affect outcomes.',
+    tech: ['Python', 'XGBoost', 'Streamlit', 'pandas', 'scikit-learn', 'Plotly'],
+    github: 'https://github.com/d3rr1ck27/sa-youth-unemployment-model',
+    live: 'Soon to come',
+    status: 'Soon to come',
   },
 ];
 
