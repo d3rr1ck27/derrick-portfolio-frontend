@@ -19,12 +19,14 @@ const projects = [
     status: 'Completed',
   },
   {
+    {
     title: 'SA Youth NEET Risk Predictor',
-    description: 'Machine learning dashboard predicting youth unemployment risk across South Africa using real QLFS government microdata. Features province-level risk analysis, demographic breakdowns, and a what-if simulator showing how education and location affect outcomes.',
+    description: 'Machine learning dashboard predicting youth unemployment risk across South Africa using real QLFS government microdata. Features province-level risk analysis, demographic breakdowns, and data-driven factor explanations.',
     tech: ['Python', 'XGBoost', 'Streamlit', 'pandas', 'scikit-learn', 'Plotly'],
     github: 'https://github.com/d3rr1ck27/sa-youth-unemployment-model',
-    live: null,
-    status: 'Coming soon',
+    live: 'https://sa-youth-unemployment-model-shxlmrm5pckbqkpdxx5hv5.streamlit.app/',
+    status: 'Live',
+}
   },
 ];
 
