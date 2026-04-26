@@ -25,7 +25,6 @@ const projects = [
     github: 'https://github.com/d3rr1ck27/sa-youth-unemployment-model',
     live: 'https://sa-youth-unemployment-model-shxlmrm5pckbqkpdxx5hv5.streamlit.app/',
     status: 'Completed',
-}
   },
 ];
 
