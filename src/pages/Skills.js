@@ -20,7 +20,7 @@ const skillCategories = [
   {
     category: 'Databases',
     icon: '🗄️',
-    skills: ['PostgreSQL', 'SQLite', 'JDBC', 'pgAdmin'],
+    skills: ['PostgreSQL', 'SQLite', 'JDBC', 'pgAdmin', 'H2', 'Spring Data JPA'],
   },
   {
     category: 'Testing',
@@ -30,12 +30,12 @@ const skillCategories = [
   {
     category: 'Tools & DevOps',
     icon: '🛠️',
-    skills: ['Git', 'GitHub', 'IntelliJ IDEA', 'VS Code', 'Maven', 'npm'],
+    skills: ['Git', 'GitHub', 'IntelliJ IDEA', 'VS Code', 'Maven', 'npm', 'FastAPI', 'RailWay', 'Vercel', 'Render', 'Docker'],
   },
   {
     category: 'Data Science',
     icon: '📊',
-    skills: ['scikit-learn', 'pandas', 'NumPy', 'Statistics', 'ML Algorithms'],
+    skills: ['scikit-learn', 'pandas', 'NumPy', 'Statistics', 'ML Algorithms', 'SMOTE', 'XGBoost', 'Random Forest', 'Plotly'],
   },
   {
     category: 'Soft Skills',
