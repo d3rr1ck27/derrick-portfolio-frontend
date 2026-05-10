@@ -26,6 +26,14 @@ const projects = [
     live: 'https://sa-youth-unemployment-model-shxlmrm5pckbqkpdxx5hv5.streamlit.app/',
     status: 'Completed',
   },
+  {
+    title: 'Fraud Detection System',
+    description: 'Full-stack fraud detection system with a React dashboard, Spring Boot REST API, and Python FastAPI ML microservice. Trained a Random Forest classifier with SMOTE on 284,807 real credit card transactions achieving ROC-AUC of 0.973. All three services deployed independently in production.',
+    tech: ['Java', 'Spring Boot', 'Python', 'FastAPI', 'scikit-learn', 'Random Forest', 'React', 'PostgreSQL', 'Docker'],
+    github: 'https://github.com/d3rr1ck27/fraud-detection-system',
+    live: 'https://fraud-detection-system-omega.vercel.app',
+    status: 'Completed',
+  },
 ];
 
 function Projects() {
